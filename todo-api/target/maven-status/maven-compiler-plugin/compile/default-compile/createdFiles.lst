@@ -1,0 +1,9 @@
+todo\application\ApiController.class
+todo\model\identifier\DependencyIdentifier.class
+todo\model\identifier\ObjectWrapper.class
+todo\model\TodoList.class
+todo\model\identifier\TimeIdentifier.class
+todo\model\TodoItem.class
+todo\model\identifier\IndexIdentifier.class
+todo\application\ApiService.class
+todo\application\TodoApiApplication.class

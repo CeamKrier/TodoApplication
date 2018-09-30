@@ -1,0 +1,25 @@
+.ant-card-body {
+  height: 230px;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+.taskCompleted {
+  text-decoration: line-through;
+}
+
+.hideItem {
+  display: none;
+}
+
+.ant-list-item-extra-wrap {
+  width: stretch;
+  float: right;
+}
+
+.ant-list-item-meta-title {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  word-break: break-word;
+  width: auto;
+}
