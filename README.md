@@ -3,6 +3,10 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+<p><img src="one.png" alt="BatteryLog" width="400px" />
+<img src="two.png" alt="BatteryLog" width="400px" /></p>
+
+
 ### Installing
 
 You can easily start the Rest API from the jar file which is at todo-api/target/todo-api-0.0.1-SNAPSHOT.jar.
