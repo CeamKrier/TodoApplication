@@ -6,6 +6,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 You can easily start the Rest API from the jar file which is at todo-api/target/todo-api-0.0.1-SNAPSHOT.jar.
+Run following in cmd or terminal while you're in todo-api/target folder
+```
+java -jar todo-api-0.0.1-SNAPSHOT.jar
+```
 Once you have ran the jar file, the server will be available at port 8080.
 ```
 http://localhost:8080
